@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the [project website](https://segmentation-in-style.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find the paper useful for your work please cite:
 ```
 @article{pakhomov2021segmentation,
   title={Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP},
