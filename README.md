@@ -1,4 +1,4 @@
-# segmentation in style: unsupervised semantic image segmentation with stylegan and clip
+# Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP
 
 This is the repository that contains source code for the [project website](https://segmentation-in-style.github.io/).
 
